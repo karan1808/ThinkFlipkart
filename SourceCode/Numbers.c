@@ -5,3 +5,7 @@ trying out some changes
 int main(void) {
 	return 0;
 }
+int sub(int x,int y){
+return x-y;
+}
+
